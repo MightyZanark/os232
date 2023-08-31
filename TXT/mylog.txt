@@ -1,4 +1,5 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-ZCZC W0 10 L00 GitHub related stuff
+ZCZC W0 10 L03 GitHub related stuff
+ZCZC W0 5 L04 Setup GitHub Pages
