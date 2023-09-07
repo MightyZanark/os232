@@ -11,4 +11,6 @@ ZCZC W00 10 L01 Read forum posts in SCELE
 ZCZC W01 200 L02 Offline class
 ZCZC W01 90 L11 Did everything as instructed in Assignment #1
 ZCZC W01 5 L03 GitHub and git related
+ZCZC W01 10 L64 Helped my friend with ssh not being recognized
+ZCZC W01 10 L25 Tried creating a simple C program and compiled with gcc
 
