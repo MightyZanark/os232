@@ -8,9 +8,13 @@ ZCZC W00 100 L02 Offline class (Thursday)
 ZCZC W00 120 L06 Read introduction slide from the reference book
 ZCZC W00 10 L05 Quiz 1
 ZCZC W00 10 L01 Read forum posts in SCELE
-ZCZC W01 200 L02 Offline class
+ZCZC W01 200 L02 Offline class (Tuesday & Thursday)
 ZCZC W01 90 L11 Did everything as instructed in Assignment #1
 ZCZC W01 5 L03 GitHub and git related
-ZCZC W01 10 L64 Helped my friend with ssh not being recognized
+ZCZC W01 20 L64 Helped some friends with ssh not being recognized
 ZCZC W01 10 L25 Tried creating a simple C program and compiled with gcc
+ZCZC W01 12 L05 Quiz 2
+ZCZC W01 10 L01 Did pop quiz 1 and 2 for week 1 in SCELE forum post
+ZCZC W01 5 L13 Added links to some videos I've watched in the past that might be helpful for others
+ZCZC W01 10 L24 Tried bash scripting to run a Python script with input output redirection
 
