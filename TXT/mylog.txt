@@ -17,4 +17,10 @@ ZCZC W01 12 L05 Quiz 2
 ZCZC W01 10 L01 Did pop quiz 1 and 2 for week 1 in SCELE forum post
 ZCZC W01 5 L13 Added links to some videos I've watched in the past that might be helpful for others
 ZCZC W01 10 L24 Tried bash scripting to run a Python script with input output redirection
-
+ZCZC W02 200 L02 Offline class (Tuesday & Thursday)
+ZCZC W02 30 L07 Tried out week 2 demos by reading the source then running the program
+ZCZC W02 20 L64 Helped some friends with in class demos
+ZCZC W02 10 L01 Read forum posts in SCELE and did the pop quizzes
+ZCZC W02 5 L24 Created a script for pop quiz 2
+ZCZC W02 10 L12 Tried GPG as instructed in the assignment page
+ZCZC W02 20 L15 Downloaded scripts then tried to read what they do and run them
