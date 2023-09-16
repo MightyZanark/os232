@@ -24,3 +24,4 @@ ZCZC W02 10 L01 Read forum posts in SCELE and did the pop quizzes
 ZCZC W02 5 L24 Created a script for pop quiz 2
 ZCZC W02 10 L12 Tried GPG as instructed in the assignment page
 ZCZC W02 20 L15 Downloaded scripts then tried to read what they do and run them
+ZCZC W02 12 L05 Quiz 3
