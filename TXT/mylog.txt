@@ -25,3 +25,12 @@ ZCZC W02 5 L24 Created a script for pop quiz 2
 ZCZC W02 10 L12 Tried GPG as instructed in the assignment page
 ZCZC W02 20 L15 Downloaded scripts then tried to read what they do and run them
 ZCZC W02 12 L05 Quiz 3
+ZCZC W03 130 L02 Offline class (Tuesday) and online class (Thursday)
+ZCZC W03 90 L62 Reinstalled Debian due to corruption and redid everything up to week 2
+ZCZC W03 15 L25 Tried creating a C program to print Hello and Makefile for pop quiz 2
+ZCZC W03 5 L27 SSH'd into os1.cs.ui.ac.id to do pop quiz 1
+ZCZC W03 60 L70 Studied statistics and probability in case my group gets selected to present the material
+ZCZC W03 10 L01 Read forum posts in SCELE to make sure I'm not missing any information
+ZCZC W03 5 L62 Backed up my current Debian Guest
+ZCZC W03 15 L12 Created and added a new virtual disk and set it up in Debian Guest
+ZCZC W03 10 L13 Downloaded this week's scripts, ran them, and tried to understand what they do
