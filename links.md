@@ -25,5 +25,8 @@ A playlist consisting of videos explaining how bad C programs can lead to fatal 
 - [Makefile Tutorial](https://makefiletutorial.com/) ---
 The name says it all, a website that helped me learn how to write Makefiles.
 
+- [Linux Directories in 100 seconds](https://www.youtube.com/watch?v=42iQKuQodW4) ---
+A quick and nice video that explains all the different directories that are inside a standard linux system.
+
 <br>
 <hr>

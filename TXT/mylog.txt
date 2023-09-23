@@ -34,3 +34,4 @@ ZCZC W03 10 L01 Read forum posts in SCELE to make sure I'm not missing any infor
 ZCZC W03 5 L62 Backed up my current Debian Guest
 ZCZC W03 15 L12 Created and added a new virtual disk and set it up in Debian Guest
 ZCZC W03 10 L13 Downloaded this week's scripts, ran them, and tried to understand what they do
+ZCZC W03 12 L05 Quiz 4
