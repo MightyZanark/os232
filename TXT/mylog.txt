@@ -35,3 +35,9 @@ ZCZC W03 5 L62 Backed up my current Debian Guest
 ZCZC W03 15 L12 Created and added a new virtual disk and set it up in Debian Guest
 ZCZC W03 10 L13 Downloaded this week's scripts, ran them, and tried to understand what they do
 ZCZC W03 12 L05 Quiz 4
+ZCZC W04 100 L02 Offline class (Tuesday)
+ZCZC W04 10 L01 Read forums to make sure I don't miss out on important informations
+ZCZC W04 5 L62 Backed up my current Debian Guest
+ZCZC W04 30 L12 Compiled TLPI and read the README as well as BUILDING
+ZCZC W04 10 L07 Tried out some of this week's demos and tried to read the source
+ZCZC W04 5 L01 Did both pop quiz 1 and 2

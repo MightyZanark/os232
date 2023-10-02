@@ -6,6 +6,7 @@ permalink: LINKS/
 - [Week 01](#week-01)
 - [Week 02](#week-02)
 - [Week 03](#week-03)
+- [Week 04](#week-04)
 
 ## Week 01
 - [50 Most Popular Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) --- 
@@ -27,6 +28,10 @@ The name says it all, a website that helped me learn how to write Makefiles.
 
 - [Linux Directories in 100 seconds](https://www.youtube.com/watch?v=42iQKuQodW4) ---
 A quick and nice video that explains all the different directories that are inside a standard linux system.
+
+## Week 04
+- [Pointers Explanation](https://www.youtube.com/watch?v=2ybLD6_2gKM&pp=ygUHcG9pbnRlcg%3D%3D) ---
+A good short video explaining about pointers.
 
 <br>
 <hr>
