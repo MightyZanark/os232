@@ -7,6 +7,7 @@ permalink: LINKS/
 - [Week 02](#week-02)
 - [Week 03](#week-03)
 - [Week 04](#week-04)
+- [Week 05](#week-05)
 
 ## Week 01
 - [50 Most Popular Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) --- 
@@ -32,6 +33,11 @@ A quick and nice video that explains all the different directories that are insi
 ## Week 04
 - [Pointers Explanation](https://www.youtube.com/watch?v=2ybLD6_2gKM&pp=ygUHcG9pbnRlcg%3D%3D) ---
 A good short video explaining about pointers.
+
+
+## Week 05
+- [How does an OS boot?](https://youtu.be/KkenLT8S9Hs?si=UwcyhcnrQk5o6JMc) ---
+A very good video explaining how an OS actually boots.
 
 <br>
 <hr>

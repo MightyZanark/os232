@@ -41,3 +41,11 @@ ZCZC W04 5 L62 Backed up my current Debian Guest
 ZCZC W04 30 L12 Compiled TLPI and read the README as well as BUILDING
 ZCZC W04 10 L07 Tried out some of this week's demos and tried to read the source
 ZCZC W04 5 L01 Did both pop quiz 1 and 2
+ZCZC W05 10 L01 Did pop quiz 1, 2, and 3
+ZCZC W05 100 L02 Offline class (Tuesday)
+ZCZC W05 5 L62 Backed up my current Debian Guest before trying pop quiz 3
+ZCZC W05 10 L04 Rearranged mymemory2.c so it outputs like what is wanted in the assignment page
+ZCZC W05 5 L24 Created a bash script to do weekly demo pull
+ZCZC W05 50 L32 Watched a video about how an operating system boots
+ZCZC W05 5 L01 Read forum post in SCELE to make sure I'm not missing any information
+ZCZC W05 10 L07 Checked out what the demo for this week and tried to understand it
