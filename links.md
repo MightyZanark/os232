@@ -8,6 +8,7 @@ permalink: LINKS/
 - [Week 03](#week-03)
 - [Week 04](#week-04)
 - [Week 05](#week-05)
+- [Week 06](#week-06)
 
 ## Week 01
 - [50 Most Popular Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) --- 
@@ -38,6 +39,17 @@ A good short video explaining about pointers.
 ## Week 05
 - [How does an OS boot?](https://youtu.be/KkenLT8S9Hs?si=UwcyhcnrQk5o6JMc) ---
 A very good video explaining how an OS actually boots.
+
+
+## Week 06
+- [fork, exec, wait, exit](https://percona.community/blog/2021/01/04/fork-exec-wait-and-exit/) ---
+A good article explaining what fork(), exec(), wait(), and exit() does and how they affect each other.
+
+- [How does KERNEL memory allocation work?](https://www.youtube.com/watch?v=NC_qkXznvkg) ---
+A good video explaining how kernel memory allocation works.
+
+- [The mechanics of VIRTUAL MEMORY](https://www.youtube.com/watch?v=iTic6EV4DP8) ---
+A very good video explaining how virtual memory works and how address gets translated.
 
 <br>
 <hr>

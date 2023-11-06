@@ -49,3 +49,12 @@ ZCZC W05 5 L24 Created a bash script to do weekly demo pull
 ZCZC W05 50 L32 Watched a video about how an operating system boots
 ZCZC W05 5 L01 Read forum post in SCELE to make sure I'm not missing any information
 ZCZC W05 10 L07 Checked out what the demo for this week and tried to understand it
+ZCZC W06 200 L02 Offline class (Tuesday & Thursday)
+ZCZC W06 10 L01 Did pop quiz 1, 2, and 3
+ZCZC W06 10 L01 Read forums to make sure I don't miss out on important information
+ZCZC W06 5 L62 Backed up my current Debian Guest
+ZCZC W06 30 L09 Did all of this week's assignment
+ZCZC W06 20 L06 Searched on how fork(), wait(), and mmap() works
+ZCZC W06 20 L07 Tried out this week's demos
+ZCZC W06 5 L64 Helped a friend with tar and gpg armor
+ZCZC W06 120 L32 Watched a video on how kernel memory allocation works and how virtual memory works
