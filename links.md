@@ -9,6 +9,7 @@ permalink: LINKS/
 - [Week 04](#week-04)
 - [Week 05](#week-05)
 - [Week 06](#week-06)
+- [Week 07](#week-07)
 
 ## Week 01
 - [50 Most Popular Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) --- 
@@ -50,6 +51,14 @@ A good video explaining how kernel memory allocation works.
 
 - [The mechanics of VIRTUAL MEMORY](https://www.youtube.com/watch?v=iTic6EV4DP8) ---
 A very good video explaining how virtual memory works and how address gets translated.
+
+
+## Week 07
+- [Introduction of Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
+A good article that introduces the concept of deadlocks in an operating system, how to prevent or avoid them, and how to recovery from them.
+
+- [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) ---
+A good article in explaining how semaphores work for process synchronization.
 
 <br>
 <hr>

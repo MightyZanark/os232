@@ -58,3 +58,11 @@ ZCZC W06 20 L06 Searched on how fork(), wait(), and mmap() works
 ZCZC W06 20 L07 Tried out this week's demos
 ZCZC W06 5 L64 Helped a friend with tar and gpg armor
 ZCZC W06 120 L32 Watched a video on how kernel memory allocation works and how virtual memory works
+ZCZC W07 200 L02 Offline class (Tuesday & Thursday)
+ZCZC W07 30 L09 Did all of this week's assignment
+ZCZC W07 10 L01 Did pop quiz 1 and 2
+ZCZC W07 7 L05 Quiz Week 7
+ZCZC W07 5 L62 Backed up my current Debian Guest
+ZCZC W07 15 L64 Helped out some friends regarding insertShareMemory on os1
+ZCZC W07 30 L07 Tried out this week's demos and tried to understand what they do
+ZCZC W07 10 L01 Read forum post in SCELE to make sure I'm not missing any information
