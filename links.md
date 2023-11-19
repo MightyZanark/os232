@@ -10,6 +10,7 @@ permalink: LINKS/
 - [Week 05](#week-05)
 - [Week 06](#week-06)
 - [Week 07](#week-07)
+- [Week 08](#week-08)
 
 ## Week 01
 - [50 Most Popular Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) --- 
@@ -18,6 +19,7 @@ A video about 50 of the most popular and helpful commands to know in Linux, incl
 - [Bash Scripting for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4) ---
 A very good tutorial for scripting with Bash, including but not limited to using loops, conditionals, creating variables, and more!
 
+
 ## Week 02
 - [Grep Tutorial](https://www.youtube.com/watch?v=VGgTmxXp7xQ&pp=ygUFZ3JlcCA%3D) ---
 A good tutorial on learning how to use grep to search for patterns in file.
@@ -25,12 +27,14 @@ A good tutorial on learning how to use grep to search for patterns in file.
 - [How C Programs Can be Dangerous](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) ---
 A playlist consisting of videos explaining how bad C programs can lead to fatal security issues.
 
+
 ## Week 03
 - [Makefile Tutorial](https://makefiletutorial.com/) ---
 The name says it all, a website that helped me learn how to write Makefiles.
 
 - [Linux Directories in 100 seconds](https://www.youtube.com/watch?v=42iQKuQodW4) ---
 A quick and nice video that explains all the different directories that are inside a standard linux system.
+
 
 ## Week 04
 - [Pointers Explanation](https://www.youtube.com/watch?v=2ybLD6_2gKM&pp=ygUHcG9pbnRlcg%3D%3D) ---
@@ -59,6 +63,14 @@ A good article that introduces the concept of deadlocks in an operating system, 
 
 - [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) ---
 A good article in explaining how semaphores work for process synchronization.
+
+
+## Week 08
+- [LFS 12.0 Playlist by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+A very good playlist consisting of detailed videos regarding LFS that makes me sure I'm doing the correct thing.
+
+- [CPU Scheduling in OS](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) ---
+A very good article explaining what CPU scheduling is and some CPU scheduling algorithms.
 
 <br>
 <hr>

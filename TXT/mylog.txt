@@ -66,3 +66,10 @@ ZCZC W07 5 L62 Backed up my current Debian Guest
 ZCZC W07 15 L64 Helped out some friends regarding insertShareMemory on os1
 ZCZC W07 30 L07 Tried out this week's demos and tried to understand what they do
 ZCZC W07 10 L01 Read forum post in SCELE to make sure I'm not missing any information
+ZCZC W08 5 L01 Did pop quiz 1, 2, and 3
+ZCZC W08 15 L62 Backed up my current Debian Guest multiple times before and after doing LFS
+ZCZC W08 53 L32 Watched Kernotex's chapter 5 LFS video
+ZCZC W08 120 L13 Compiled everything as instructed in LFS chapter 5 twice because the first one crashed my VirtualBox
+ZCZC W08 15 L24 Created a bash script to help me in another course
+ZCZC W08 20 L08 Cross checked my steps for this week's assignment with my friends
+ZCCZ W08 30 L64 Helped out some friends regarding LFS chapter 5
